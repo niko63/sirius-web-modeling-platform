@@ -1,1 +1,29 @@
+## Release version 2025.2.0
+First version of the platform including: 
+
+* A Grai grid modeler with following functionnalities:
+** create original grid
+** add/remove function
+** add/remove decisional level
+** create network diagram from decisional center
+** create decision frame
+** create information link
+
+* A network diagram modeling with following funtionalities:
+** create entities
+** create Execution/decision activities
+** create operator (AND/OR)
+** create origin/destination
+**create link
+
+[NOTE]
+====
+A very frist version of grid analysis is available fort test purpose
+====
+
+
+
+
+
+
 
