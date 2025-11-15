@@ -18,7 +18,7 @@ First version of the platform including:
 
 [NOTE]
 ====
-A very frist version of grid analysis is available fort test purpose
+A very first version of grid analysis is available for test purpose
 ====
 
 
