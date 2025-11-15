@@ -20,11 +20,8 @@ This tool allows you to make diferent enterprise models such as:
 ```
 docker run -p 5438:5432 --rm --name sirius-web-postgres -e POSTGRES_USER=USERNAME -e POSTGRES_PASSWORD=PASSWORD -e POSTGRES_DB=sirius-web-db -d postgres:15
 ```
-
- [NOTE]
- ===
- You can create container directly in the docker's terminal
- ===
+|Note  | You can create container directly in the docker's terminal|
+|---|---|
 
 2. Run the platform using:
 ```
@@ -32,6 +29,6 @@ java -jar sirius-web-2025.10.0.jar --spring.datasource.url=jdbc:postgresql://loc
 ```
 3. Open a web browser and go to: http://localhost:8080/projects
 
-You access the following and you can start to create projects and models. Enjoy!  
+You access the following page and you can start to create projects and models. Enjoy!  
 
 ![alt text](https://github.com/niko63/sirius-web-modeling-platform/blob/main/SiriusWebPlatform.png)
